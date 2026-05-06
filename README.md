@@ -6,7 +6,7 @@ house prices based on location, income, and property features. Built with
 Python and deployed as an interactive web app using Streamlit.
 
 ## Live Demo
-[Click here to try the app](#) ← add your Streamlit URL after deployment
+[Click here to try the app](https://house-price-predictor-hpp.streamlit.app/)
 
 ## Tech Stack
 - **Python** (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
